@@ -34,6 +34,8 @@ async function main() {
   ${basicRepoLinkWithCard({ repo: 'gzdoom-launcher' })}
   ${basicRepoLinkWithCard({ repo: 'ss-plex.bundle' })}
 </p>
+
+<!-- ${new Date().valueOf()} -->
   `.trim())
 }
 
