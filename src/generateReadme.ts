@@ -40,7 +40,7 @@ async function main() {
 type AnyObject = Record<string, unknown>
 
 function basicRepoLinkWithCard(obj: AnyObject) {
-  return `<a href="/${USERNAME}/${obj.repo}" target="_blank"><img align="center" src=${buildCardUrlRepo({ repo: obj.repo })} /></a>`
+  return `<a href="https://github.com/${USERNAME}/${obj.repo}" target="_blank"><img align="center" src=${buildCardUrlRepo({ repo: obj.repo })} /></a>`
 }
 
 function buildCardUrlStats(obj: AnyObject) {

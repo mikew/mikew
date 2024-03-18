@@ -6,18 +6,18 @@
 ---
 
 <p align="center">
-  <a href="/mikew/transmission-material-ui" target="_blank"><img align="center" src=https://github-readme-stats.vercel.app/api/pin?theme=nord&border_radius=20&hide_border=true&username=mikew&description_lines_count=3&repo=transmission-material-ui /></a>
-  <a href="/mikew/xarcade-xinput" target="_blank"><img align="center" src=https://github-readme-stats.vercel.app/api/pin?theme=nord&border_radius=20&hide_border=true&username=mikew&description_lines_count=3&repo=xarcade-xinput /></a>
+  <a href="https://github.com/mikew/transmission-material-ui" target="_blank"><img align="center" src=https://github-readme-stats.vercel.app/api/pin?theme=nord&border_radius=20&hide_border=true&username=mikew&description_lines_count=3&repo=transmission-material-ui /></a>
+  <a href="https://github.com/mikew/xarcade-xinput" target="_blank"><img align="center" src=https://github-readme-stats.vercel.app/api/pin?theme=nord&border_radius=20&hide_border=true&username=mikew&description_lines_count=3&repo=xarcade-xinput /></a>
 </p>
 <p align="center">
-  <a href="/mikew/redux-easy-mode" target="_blank"><img align="center" src=https://github-readme-stats.vercel.app/api/pin?theme=nord&border_radius=20&hide_border=true&username=mikew&description_lines_count=3&repo=redux-easy-mode /></a>
-  <a href="/mikew/homelab" target="_blank"><img align="center" src=https://github-readme-stats.vercel.app/api/pin?theme=nord&border_radius=20&hide_border=true&username=mikew&description_lines_count=3&repo=homelab /></a>
+  <a href="https://github.com/mikew/redux-easy-mode" target="_blank"><img align="center" src=https://github-readme-stats.vercel.app/api/pin?theme=nord&border_radius=20&hide_border=true&username=mikew&description_lines_count=3&repo=redux-easy-mode /></a>
+  <a href="https://github.com/mikew/homelab" target="_blank"><img align="center" src=https://github-readme-stats.vercel.app/api/pin?theme=nord&border_radius=20&hide_border=true&username=mikew&description_lines_count=3&repo=homelab /></a>
 </p>
 <p align="center">
-  <a href="/mikew/brinton-memorial-cookbook" target="_blank"><img align="center" src=https://github-readme-stats.vercel.app/api/pin?theme=nord&border_radius=20&hide_border=true&username=mikew&description_lines_count=3&repo=brinton-memorial-cookbook /></a>
-  <a href="/mikew/browser-kde-color-scheme" target="_blank"><img align="center" src=https://github-readme-stats.vercel.app/api/pin?theme=nord&border_radius=20&hide_border=true&username=mikew&description_lines_count=3&repo=browser-kde-color-scheme /></a>
+  <a href="https://github.com/mikew/brinton-memorial-cookbook" target="_blank"><img align="center" src=https://github-readme-stats.vercel.app/api/pin?theme=nord&border_radius=20&hide_border=true&username=mikew&description_lines_count=3&repo=brinton-memorial-cookbook /></a>
+  <a href="https://github.com/mikew/browser-kde-color-scheme" target="_blank"><img align="center" src=https://github-readme-stats.vercel.app/api/pin?theme=nord&border_radius=20&hide_border=true&username=mikew&description_lines_count=3&repo=browser-kde-color-scheme /></a>
 </p>
 <p align="center">
-  <a href="/mikew/gzdoom-launcher" target="_blank"><img align="center" src=https://github-readme-stats.vercel.app/api/pin?theme=nord&border_radius=20&hide_border=true&username=mikew&description_lines_count=3&repo=gzdoom-launcher /></a>
-  <a href="/mikew/ss-plex.bundle" target="_blank"><img align="center" src=https://github-readme-stats.vercel.app/api/pin?theme=nord&border_radius=20&hide_border=true&username=mikew&description_lines_count=3&repo=ss-plex.bundle /></a>
+  <a href="https://github.com/mikew/gzdoom-launcher" target="_blank"><img align="center" src=https://github-readme-stats.vercel.app/api/pin?theme=nord&border_radius=20&hide_border=true&username=mikew&description_lines_count=3&repo=gzdoom-launcher /></a>
+  <a href="https://github.com/mikew/ss-plex.bundle" target="_blank"><img align="center" src=https://github-readme-stats.vercel.app/api/pin?theme=nord&border_radius=20&hide_border=true&username=mikew&description_lines_count=3&repo=ss-plex.bundle /></a>
 </p>
