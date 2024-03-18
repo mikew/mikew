@@ -1,0 +1,18 @@
+{
+  "name": "mikew",
+  "version": "1.0.0",
+  "description": "<!-- **mikew/mikew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.11.28",
+    "qs": "^6.12.0",
+    "tsx": "^4.7.1",
+    "typescript": "^5.4.2"
+  }
+}

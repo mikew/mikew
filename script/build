@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+set -ex
+
+./node_modules/.bin/tsx src/generateReadme.ts > README.md
