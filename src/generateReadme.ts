@@ -5,15 +5,15 @@ const USERNAME = 'mikew'
 async function main() {
   console.log(`
 <p align="center">
-  <img align="center" src=${buildCardUrlStats({
+  <a href="https://github.com/${USERNAME}#js-contribution-activity"><img align="center" src=${buildCardUrlStats({
     show_icons: true,
     include_all_commits: true,
-  })} />
-  <img align="center" src=${buildCardUrlLanguages({
+  })} /></a>
+  <a href="https://github.com/${USERNAME}?tab=repositories"><img align="center" src=${buildCardUrlLanguages({
     layout: 'compact',
     size_weight: 0.5,
     count_weight: 0.5,
-  })} />
+  })} /></a>
 </p>
 
 ---

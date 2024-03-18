@@ -1,6 +1,6 @@
 <p align="center">
-  <img align="center" src=https://github-readme-stats.vercel.app/api?username=mikew&theme=nord&hide_border=true&border_radius=20&show_icons=true&include_all_commits=true />
-  <img align="center" src=https://github-readme-stats.vercel.app/api/top-langs?theme=nord&border_radius=20&hide_border=true&username=mikew&layout=compact&size_weight=0.5&count_weight=0.5 />
+  <a href="https://github.com/mikew#js-contribution-activity"><img align="center" src=https://github-readme-stats.vercel.app/api?username=mikew&theme=nord&hide_border=true&border_radius=20&show_icons=true&include_all_commits=true /></a>
+  <a href="https://github.com/mikew?tab=repositories"><img align="center" src=https://github-readme-stats.vercel.app/api/top-langs?theme=nord&border_radius=20&hide_border=true&username=mikew&layout=compact&size_weight=0.5&count_weight=0.5 /></a>
 </p>
 
 ---
@@ -22,4 +22,4 @@
   <a href="https://github.com/mikew/ss-plex.bundle" target="_blank"><img align="center" src=https://github-readme-stats.vercel.app/api/pin?theme=nord&border_radius=20&hide_border=true&username=mikew&description_lines_count=3&repo=ss-plex.bundle /></a>
 </p>
 
-<!-- 1710729623776 -->
+<!-- 1710730038268 -->
